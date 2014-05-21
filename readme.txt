@@ -1,9 +1,9 @@
-KmlPainter v1.0a
+EER - Maps v1.0a
 =================================================
 
 WHAT IT DOES
 =================================================
-KmlPainter is a simple PHP application that helps visualize points or polygons in a map, it does that
+EER - Maps is a simple PHP application that helps visualize points or polygons in a map, it does that
 by painting all the points in google maps interface and can also load external (publicly accessible) kml
 files.
 It works with multiple layers and multiple kml files.
