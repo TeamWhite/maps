@@ -1,0 +1,3 @@
+<Files yourpage.html>
+	AddType application/x-httpd-php .html .htm
+</Files>
